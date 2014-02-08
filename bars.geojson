@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "The Exchange '\"><script>alert(document.domain)</script>",
-        "address": "1719 G St NW '\"><script>alert(document.domain)</script>"
+        "name<em>Name</em>": "The Exchange <x ><<<<",
+        "address": "1719 G St NW <svg/onload=confirm(14)//"
       }
     },
     {
